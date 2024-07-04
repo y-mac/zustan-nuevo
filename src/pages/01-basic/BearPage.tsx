@@ -2,6 +2,7 @@ import { WhiteCard } from '../../components';
 import { useBearStore } from '../../stores';
 
 
+
 export const BearPage = () => {
   
   return (
